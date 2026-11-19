@@ -7,7 +7,9 @@
 </a>
 
 <p>
-  <a href="https://github.com/mrcodeflex"><img src="https://img.shields.io/badge/GitHub-mrcodeflex-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/mrcodeflex"><img src="https://img.shields.io/badge/GitHub-mrcodeflex-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/mrcodeflex"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/mrcodeflex"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
   <a href="https://www.facebook.com/mrcodeflex"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
